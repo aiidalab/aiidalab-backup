@@ -1,4 +1,5 @@
 {
     "description": "Materials Cloud Backup App",
-    "title": "Backup"
+    "title": "Backup",
+    "version": "0.1-alpha"
 }
